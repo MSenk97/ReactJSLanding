@@ -1,0 +1,74 @@
+{
+  "Header": {
+    "title": "InfinityEdge",
+    "paragraph": "Compete weekly. Win prizes. Earn glory."
+  },
+  "About": {
+    "paragraph": "Infinityedge is a new private organization focused on Teamfight Tactics. We create tournaments and content on a regular basis. To stay updated on everything we're up to, follow us on social media.",
+    "Why": [
+      "Create Weekly Tournaments",
+      "Upload educational content",
+      "Interview winners",
+      "Make talkshows"
+    ],
+    "Why2": [
+      "Stream&Cast tournaments",
+      "Recap tournaments",
+      "Give cash prizes",
+      "Post blogs"
+    ]
+  },
+  
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "ZionChe",
+      "job": "Caster/Organizer"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "schnekec",
+      "job": "Caster/Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Kaljemka",
+      "job": "Pomoćni vodonoša"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Dzonsa",
+      "job": "Surovi Castaž"
+    }
+  ],
+  "Contact": {
+    "address": "Smrdija",
+    "phone": "+1 123 456 1234",
+    "email": "infinityedge@gmail.com",
+    "facebook": "https://www.facebook.com/schnekec",
+    "twitter": "https://www.twitter.com/schnekec",
+    "youtube": "https://www.youtube.com/schnekec"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
