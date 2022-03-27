@@ -150,7 +150,7 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2022 Infinityedge Copyright. Design by{' '}
+            &copy; 2022 BlackLight Copyright. Design by{' '}
             <a href='https://www.instagram.com/schnekec/' rel='nofollow'>
               schnekec
             </a>

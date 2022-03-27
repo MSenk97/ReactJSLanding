@@ -22,6 +22,7 @@ const App = () => {
 
   return (
     <div>
+      <link rel="icon" href="../public/img/favicon.png" />
       <Navigation />
       <Header data={landingPageData.Header} />
       <About data={landingPageData.About} />
